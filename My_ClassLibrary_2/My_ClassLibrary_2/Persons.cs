@@ -10,14 +10,16 @@ namespace My_ClassLibrary_2
         public string name;
         public int age;
         public Job job;
+        public Job jobPay;
         
         
         //add constructor press alt+enter pick add contructor
-        public Persons(string name, int age, Job job)
+        public Persons(string name, int age, Job job, Job jobPay)
         {
             this.name = name;
             this.age = age;
             this.job = job;
+            this.jobPay = jobPay;
         }
     }
 
@@ -25,10 +27,12 @@ namespace My_ClassLibrary_2
     public class Job 
     {
         public string jobName;
+        public double jobMonthly; 
 
-        public Job(string jobName)
+        public Job(string jobName, double jobMonthly)
         {
             this.jobName = jobName;
+            this.jobMonthly = jobMonthly;
         }
     }
 
