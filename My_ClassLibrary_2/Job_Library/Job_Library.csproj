@@ -4,8 +4,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Job_Library\Job_Library.csproj" />
-  </ItemGroup>
-
 </Project>

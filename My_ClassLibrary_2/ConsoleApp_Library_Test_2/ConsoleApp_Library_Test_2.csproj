@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Job_Library\Job_Library.csproj" />
     <ProjectReference Include="..\My_ClassLibrary_2\My_ClassLibrary_2.csproj" />
   </ItemGroup>
 

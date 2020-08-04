@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Job_Library;
 
 namespace My_ClassLibrary_2
 {
@@ -20,19 +21,6 @@ namespace My_ClassLibrary_2
             this.age = age;
             this.job = job;
             this.jobPay = jobPay;
-        }
-    }
-
-    //Job desription placeholder
-    public class Job 
-    {
-        public string jobName;
-        public double jobMonthly; 
-
-        public Job(string jobName, double jobMonthly)
-        {
-            this.jobName = jobName;
-            this.jobMonthly = jobMonthly;
         }
     }
 
