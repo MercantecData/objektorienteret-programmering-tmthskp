@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overload_opg_1", "overload_opg_1\overload_opg_1.csproj", "{D4F4F63D-A813-421C-8C11-A38F6308B8C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math_Class_1", "Math_Class_1\Math_Class_1.csproj", "{F9DC8F39-EDC3-4F00-B157-75F6E5CD00F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4F4F63D-A813-421C-8C11-A38F6308B8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F4F63D-A813-421C-8C11-A38F6308B8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F4F63D-A813-421C-8C11-A38F6308B8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F4F63D-A813-421C-8C11-A38F6308B8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9DC8F39-EDC3-4F00-B157-75F6E5CD00F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DC8F39-EDC3-4F00-B157-75F6E5CD00F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DC8F39-EDC3-4F00-B157-75F6E5CD00F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DC8F39-EDC3-4F00-B157-75F6E5CD00F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29D43563-2F3A-4D65-AD02-0E6C91111A01}
+	EndGlobalSection
+EndGlobal
