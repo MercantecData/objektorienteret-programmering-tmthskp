@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sallary_Paid\Sallary_Paid.csproj" />
+    <ProjectReference Include="..\Teams_Library\Teams_Library.csproj" />
+  </ItemGroup>
+
+</Project>
