@@ -37,13 +37,14 @@ namespace Gæt_et_tal_spil
                     else
                     {
                         Console.WriteLine("Tillykke. godt gættet!");
-                        Console.WriteLine("vil du prøve igen? j/n");
+                        Environment.Exit(0);
+                        /*Console.WriteLine("vil du prøve igen? j/n");
                         string answer = Console.ReadLine();
                         if (answer != "j") // if anwers not equal to j 
                         {
                             retry = false; // statement false 
                         }
-                        break; // forces state to stop
+                        break; // forces state to stop*/
                     }
 
                 }

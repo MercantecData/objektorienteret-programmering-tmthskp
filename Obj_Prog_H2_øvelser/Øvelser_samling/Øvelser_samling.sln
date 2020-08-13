@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1st_Dictionary", "1st_Dicti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1st_Overload_Exercises", "1st_Overload_Exercises\1st_Overload_Exercises.csproj", "{AB0D466A-FB6B-4AE0-ADBE-A51563A8BEB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1st_Delegate_Exercises", "1st_Delegate_Exercises\1st_Delegate_Exercises.csproj", "{2ACD1C07-56E3-4F5F-80E3-91EEA450ED1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1st_Delegate_and_Lambda_Exercises", "1st_Delegate_Exercises\1st_Delegate_and_Lambda_Exercises.csproj", "{2ACD1C07-56E3-4F5F-80E3-91EEA450ED1D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School_Home_Project", "School_Home_Project\School_Home_Project.csproj", "{23BF087B-1075-4E10-BE73-B28601142ABD}"
 EndProject

@@ -10,8 +10,8 @@ namespace Gæt_et_tal_spil
         {
             NumberGuessClass numberGuessClass = new NumberGuessClass();
 
-            var task = Timer.CreateWriteTimer(1, 10, "\nHurtiger! Tiden går");
-             
+            var task = Timer.CreateWriteTimer(1, 10, "\nHurtiger! Tiden går "); 
+
             numberGuessClass.Guess_a_number();
 
 
