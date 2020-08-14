@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øvelser_samling", "Øvelser_samling\Øvelser_samling.csproj", "{C38487A4-6C0F-4240-8A15-ED836B35F72F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Øvelser_samling", "Øvelser_samling\Øvelser_samling.csproj", "{C38487A4-6C0F-4240-8A15-ED836B35F72F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1st_Class_Library", "1st_Class_Library\1st_Class_Library.csproj", "{4DF87894-FF97-404B-8688-2C67B832EEC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1st_Class_Library", "1st_Class_Library\1st_Class_Library.csproj", "{4DF87894-FF97-404B-8688-2C67B832EEC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1st_Dictionary", "1st_Dictionary\1st_Dictionary.csproj", "{CB762374-A5E2-467A-97F7-03F1E5F09AC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1st_Dictionary", "1st_Dictionary\1st_Dictionary.csproj", "{CB762374-A5E2-467A-97F7-03F1E5F09AC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1st_Overload_Exercises", "1st_Overload_Exercises\1st_Overload_Exercises.csproj", "{AB0D466A-FB6B-4AE0-ADBE-A51563A8BEB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1st_Overload_Exercises", "1st_Overload_Exercises\1st_Overload_Exercises.csproj", "{AB0D466A-FB6B-4AE0-ADBE-A51563A8BEB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1st_Delegate_and_Lambda_Exercises", "1st_Delegate_Exercises\1st_Delegate_and_Lambda_Exercises.csproj", "{2ACD1C07-56E3-4F5F-80E3-91EEA450ED1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1st_Delegate_and_Lambda_Exercises", "1st_Delegate_Exercises\1st_Delegate_and_Lambda_Exercises.csproj", "{2ACD1C07-56E3-4F5F-80E3-91EEA450ED1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School_Home_Project", "School_Home_Project\School_Home_Project.csproj", "{23BF087B-1075-4E10-BE73-B28601142ABD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "School_Home_Project", "School_Home_Project\School_Home_Project.csproj", "{23BF087B-1075-4E10-BE73-B28601142ABD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gæt_et_tal_spil", "Gæt_et_tal_spil\Gæt_et_tal_spil.csproj", "{85BFEB4D-BF48-4824-8A4B-5BACB9A01035}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gæt_et_tal_spil", "Gæt_et_tal_spil\Gæt_et_tal_spil.csproj", "{85BFEB4D-BF48-4824-8A4B-5BACB9A01035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nedarving_eksempler", "Nedarving_eksempler\Nedarving_eksempler.csproj", "{4BD213C5-CD1B-4847-AA58-CE9A33CF6B6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{85BFEB4D-BF48-4824-8A4B-5BACB9A01035}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85BFEB4D-BF48-4824-8A4B-5BACB9A01035}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85BFEB4D-BF48-4824-8A4B-5BACB9A01035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BD213C5-CD1B-4847-AA58-CE9A33CF6B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD213C5-CD1B-4847-AA58-CE9A33CF6B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD213C5-CD1B-4847-AA58-CE9A33CF6B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD213C5-CD1B-4847-AA58-CE9A33CF6B6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
